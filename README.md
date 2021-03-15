@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Desafio 03 Ignite Corrigindo o codigo" title="Desafio 01 Ignite Corrigindo o codigo" src=".github/gostack-node.png" width="200px" />
+  <img alt="Desafio 03 Ignite Corrigindo o codigo" title="Desafio 01 Ignite Corrigindo o codigo" src=".github/ignite.png" width="200px" />
 </h1>
 
 <h3 align="center">
