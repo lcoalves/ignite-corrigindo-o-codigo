@@ -8,6 +8,8 @@
   Acima foi construido uma API REST que cria, lista, atualiza e remove (CRUD) 'to.dos', no qual realizei a correção do código.
 </h3>
 
+<p align="center">Challenge: <a href="https://www.notion.so/Desafio-03-Corrigindo-o-c-digo-c15c8a2e212846039a367cc7b763c6dd">click here</a></p>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lcoalves/ignite-corrigindo-o-codigo?color=%2304D361">
 
